@@ -1,7 +1,7 @@
 # End-to-End SQL Project
 
 ## Overview
-This project demonstrates an end-to-end SQL solution for managing an online book store. It includes database creation, data insertion, and various SQL queries to retrieve and analyze data. The project covers customer information, book details, and order records.
+This project demonstrates an end-to-end   SQL solution for managing an online book store. It includes database creation, data insertion, and various SQL queries to retrieve and analyze data. The project covers customer information, book details, and order records.
 
 ## Setup Instructions
 1. **Clone the repository:**
